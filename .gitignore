@@ -1,6 +1,6 @@
 *.log
 .DS_Store
-.env.backup
+git branch -M main.env.backup
 .env.production
 .phpactor.json
 .phpunit.result.cache
